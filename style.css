@@ -1,0 +1,20 @@
+body
+{
+    color:turquoise;
+    background-color:salmon;
+}
+.heading 
+{
+width:80%;
+font-size:30px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color:whitesmoke;
+}
+#camera,#result
+{
+    border:2px solid black;
+    width:400px;
+    height:400px;
+}
